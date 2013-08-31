@@ -1,2 +1,2 @@
-add_lunch_combo cm_jfltecri-eng
+add_lunch_combo fulljfltecri-userdebug
 
